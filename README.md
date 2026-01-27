@@ -19,12 +19,12 @@ Key Risk Factors Identified
 
 These factors serve as important warning signs for early diagnosis.
 
-1.Impact & Value
+Impact & Value
 
-2.Transforms complex medical data into clear, actionable insights.
+1.Transforms complex medical data into clear, actionable insights.
 
-3.Helps improve diagnostic accuracy and preventive healthcare strategies.
+2.Helps improve diagnostic accuracy and preventive healthcare strategies.
 
-4.Supports better treatment planning and improved patient outcomes.
+3.Supports better treatment planning and improved patient outcomes.
 
 5.Demonstrates the power of predictive analytics in public health and disease prevention.
