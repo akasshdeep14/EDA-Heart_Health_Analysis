@@ -27,4 +27,4 @@ Impact & Value
 
 3.Supports better treatment planning and improved patient outcomes.
 
-5.Demonstrates the power of predictive analytics in public health and disease prevention.
+4.Demonstrates the power of predictive analytics in public health and disease prevention.
